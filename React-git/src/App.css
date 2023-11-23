@@ -1,3 +1,4 @@
+
 * {
 	margin: 0;
 	padding: 0;
@@ -166,4 +167,19 @@
 
 .program {
 	color: #91d8db;
+
 }
+.pp{
+color: aliceblue;
+text-align: center;
+}
+.footer{
+  background-color: blueviolet;
+}
+.Discord{
+  width: 20px;
+}
+.listfooter{
+  margin-top: 10px;
+  list-style-type: none;
+  color: aliceblue;
